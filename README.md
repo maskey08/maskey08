@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maskey08
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning react native
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
